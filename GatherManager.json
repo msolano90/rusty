@@ -24,12 +24,20 @@
     "SurveyCharges": "Survey Charges"
   },
   "Options": {
-    "GatherDispenserModifiers": 100.0,
-    "GatherResourceModifiers": 100.0,
-    "MiningQuarryResourceTickRate": 100.0,
-    "PickupResourceModifiers": 100.0,
-    "QuarryResourceModifiers": 100.0,
-    "SurveyResourceModifiers": 100.0
+    "GatherDispenserModifiers": {},
+    "GatherResourceModifiers": {
+      "*": 100.0
+    },
+    "MiningQuarryResourceTickRate": 5.0,
+    "PickupResourceModifiers": {
+      "*": 100.0
+    },
+    "QuarryResourceModifiers": {
+      "*": 100.0
+    },
+    "SurveyResourceModifiers": {
+      "*": 100.0
+    }
   },
   "Settings": {
     "ChatPrefix": "Gather Manager",
