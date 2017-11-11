@@ -1,9 +1,6 @@
 {
   "Blocked item list": [],
-  "Normal Speed": [
-    "Hammer",
-    "Rock"
-  ],
+  "Normal Speed": [],
   "Prefix": "[InstantCraft]",
   "Prefix Color": "#42d4f4",
   "Randomize item skins if skin is zero": false,
