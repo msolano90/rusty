@@ -1,0 +1,6 @@
+{
+  "AllowTimer": true,
+  "Block Construct and Refund": true,
+  "Command": "bgrade",
+  "DefaultTimer": 30
+}

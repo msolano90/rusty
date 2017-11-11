@@ -1,0 +1,7 @@
+{
+  "Play sound effect (true/false)": true,
+  "Show visual indicator (true/false)": true,
+  "Show visual overlay (true/false)": false,
+  "Vanish timeout (seconds, 0 to disable)": 0,
+  "Visible to admin (true/false)": false
+}
