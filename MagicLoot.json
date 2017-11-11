@@ -3,7 +3,7 @@
     "DisableBlueprintDropMultiplier": true,
     "DisableBlueprintDrops": false,
     "ForceRefreshDisabledCratesOnLoad": false,
-    "ItemListMultiplier": 1,
+    "ItemListMultiplier": 100,
     "Multiplier": 100,
     "MultiplyOnlyItemList": false,
     "RandomWorkshopSkins": true,
