@@ -15,7 +15,7 @@
   "cacheMinutes": 1.0,
   "clanCheck": false,
   "clanShare": false,
-  "combatBlock": false,
+  "combatBlock": true,
   "combatBlockNotify": false,
   "combatDamageTypes": [
     "Bullet",
