@@ -47,7 +47,7 @@
   "TPR": {
     "Cooldown": 600,
     "Countdown": 15,
-    "DailyLimit": 5,
+    "DailyLimit": 60,
     "VIPDailyLimits": {
       "nteleportation.vip": 5
     },
