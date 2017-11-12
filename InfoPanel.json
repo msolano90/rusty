@@ -40,7 +40,7 @@
     "TopRightDock": {
       "AnchorX": "Right",
       "AnchorY": "Top",
-      "Available": true,
+      "Available": false,
       "BackgroundColor": "0 0 0 0.4",
       "Height": 0.03,
       "Margin": "0.005 0.005 0.005 0.005",
